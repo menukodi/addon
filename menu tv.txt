@@ -1,0 +1,167 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV1[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/VFcESdpS</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV2[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV3[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV4[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV5[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV6[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV7[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV8[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV9[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV10[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV11[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV12[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV13[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV14[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV15[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV16[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV17[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV18[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV19[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV20[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+
+
+</channels>
