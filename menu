@@ -1,0 +1,28 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LIVE TV[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/QDZYrNW/worldtv.png</thumbnail>
+<externallink>https://pastebin.com/raw/Wp6bZTaF</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]MOVIES[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/VFcESdpS</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+</channels>
