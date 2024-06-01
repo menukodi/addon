@@ -1,0 +1,167 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]POPULARES[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/VFcESdpS</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]AÇAO[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]AVENTURA[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMAÇAO[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]BIOGRAFIA[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]COMEDIA[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]CRIME[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]DOCUMENTARIO[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]DRAMA[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]FAMILIA[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]FANTASIA[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]HISTORIA[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]TERROR[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]MISTERIO[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]ROMANCE[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]FICÇAO CIENTIFICA[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]DESPORTO[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]THRILLER[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]GUERRA[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WESTERN[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/0GSXxXs/icon.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
+<info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
+</channel>
+
+
+
+</channels>
