@@ -5,7 +5,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]WOLRDTV1[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/QDZYrNW/worldtv.png</thumbnail>
-<externallink>http://asrv.io:80/get.php?username=tvrogerio0701&password=tvmd554197220242&type=m3u_plus</externallink>
+<externallink>http://asrv.io/get.php?username=tvrogerio0701&password=tvmd554197220242&type=m3u_plus</externallink>
 <fanart>https://i.ibb.co/m4CTjQD/fanart.jpg</fanart>
 <info>Para fazer uma doaçao: https://paypal.me/doacoesaddon?country.x=PT&locale.x=pt_PT</info>
 </channel>
